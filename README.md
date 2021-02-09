@@ -19,10 +19,8 @@ Use this like normal stochRSI osc (Uncheck "Fill Osc/Trigger" option, sample cha
 ![Fill Osc/Trigger option](images/fill-osc-trigger-option.png)
 
 More info:
-- CG oscillator:
-
+- [CG](https://kr.tradingview.com/symbols/NASDAQ-CG/) oscillator:
 ![CG Oscillator](images/cg-oscillator.png)
-
 - Cybernetic Analysis for Stocks and [Futures](https://kr.tradingview.com/scripts/commodities/) ( [Ehlers](https://kr.tradingview.com/scripts/fishertransform/) )
 
 - [List of LazyBear public indicators](http://bit.ly/1LQaPK8)
