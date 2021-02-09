@@ -23,5 +23,6 @@ More info:
 ![CG Oscillator](images/cg-oscillator.png)
 - Cybernetic Analysis for Stocks and [Futures](https://kr.tradingview.com/scripts/commodities/) ( [Ehlers](https://kr.tradingview.com/scripts/fishertransform/) )
 
+## Reference
 - [List of LazyBear public indicators](http://bit.ly/1LQaPK8)
 - [List of LazyBear app-store indicators](http://blog.tradingview.com/?p=970)
